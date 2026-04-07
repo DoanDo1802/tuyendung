@@ -31,6 +31,7 @@ export default function Home() {
                   src="/qr2.jpeg"
                   alt="Zalo QR Code"
                   fill
+                  sizes="(max-width: 768px) 144px, 224px"
                   className="object-cover"
                 />
               </div>
