@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "ionQ | Tuyển dụng nhân sự tài năng",
-  description: "Tham gia cùng đội ngũ ionQ để thỏa sức sáng tạo và phát triển bản thân. Môi trường làm việc năng động, chuyên nghiệp với cơ hội thăng tiến không giới hạn. Nộp CV ngay hôm nay!",
+  description: "Chúng tôi đang tìm kiếm những nhân sự tài năng như bạn — ứng tuyển ngay để bứt phá và chinh phục thu nhập không giới hạn.",
   icons: {
     icon: "/logo2.png", // Next.js sẽ load file public/logo2.png này làm icon
   },
