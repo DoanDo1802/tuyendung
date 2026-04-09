@@ -22,7 +22,7 @@ export default function Home() {
             "/7.png",
             "/8.png",
             "/9.png",
-            "/10.3.png"
+            "/10,1.png"
           ].map((src, index) => (
             <Image
               key={index}
